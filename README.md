@@ -104,7 +104,7 @@ to have longer films. Modern films with longer than standard feature movie lengt
 
 
 
-### Accept the trent toward runtimes of longer than 90 minutes
+### Accept the trend toward runtimes of longer than 90 minutes
 The next section of our code explores the seasonal variation in ROI. Seasonality has long been a part of the Hollywood box office schedule, from summer blockbusters, Halloween horrors, and awards season drama. We broke down our data bases by month to explore this phenomenon.
 
 To a certain extent, this confirms our priors. July and May provide overall good returns, December and January less so.  However, there are two things to note. 
